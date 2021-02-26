@@ -1,14 +1,11 @@
-# studiokreski-v01
-2021 | Website
-
-Project:
+![preview](./images-view/preview.png)
+### Project:
 www.studiokreski.com
 
-General info:
+### General info:
 2021 | Architectural Studio website
-
-Technologies:
+	
+### Technologies:
 Project is created with:
-
-CSS!
-Joomla! Based on: Helix Ultimate www.joomshaper.com/joomla-templates/helixultimate
+* CSS!
+* Joomla! Based on: Helix Ultimate www.joomshaper.com/joomla-templates/helixultimate
